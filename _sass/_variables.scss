@@ -1,0 +1,37 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+$base-font-family: "refrigeratordeluxe";
+$base-font: $base-font-family + "-regular";
+$base-font-bold: $base-font-family + "-bold";
+$base-font-extrabold: $base-font-family + "-extrabold";
+$base-font-weight: normal;
+$base-line-height: 1em;
+$text-color: $darkGray;
+$background-color: $white;
+
+$container_max_width: 800px;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 780px) {
+    @content;
+  }
+}

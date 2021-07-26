@@ -1,0 +1,44 @@
+.inline-title {
+  font-size: 22px;
+  font-family: $base-font-bold;
+}
+
+.home-posts {
+  display: flex;
+  @include mobile {
+    flex-direction: column;
+  }
+  a {
+    color: inherit;
+  }
+}
+
+.related-post {
+  display: inline-block;
+  border: 1px solid $lightGray;
+  border-radius: 7px;
+  width: 30vw;
+  padding: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 1vh;
+  font-size: 14px;
+  @include mobile {
+    width: auto;
+  }
+}
+.related-post h1 {
+  font-size: 18px;
+  margin-top: 0;
+  display: inline-block;
+}
+.related-image {
+  clip-path: circle(55px at center);
+  float: right;
+  width: 110px;
+  margin: 5px;
+  margin-left: 15px;
+  font-size: 96px;
+}
+.related-content {
+
+}
