@@ -15,16 +15,24 @@ Thank you for supporting my shop,
 -Samantha
 
 <div class="home-posts">
-    <a href="/2021/07/23/why-buy-handmade/#content">
-    <div class="related-post">
+    <a class="related-post" href="/2021/07/23/why-buy-handmade/#content">
+    <div>
         <h1 class="related-title">Why Buy Handmade?</h1>
         <img class="related-image" src="/images/posts/2021-07-23-why-buy-handmade/loom-and-boat-shuttle-button.jpg" />
         <div class="related-content">...One of my favorite things about hand weaving
         is that it is my own life force energy that powers the loom and creates the finished textile...</div>
     </div>
     </a>
-    <a href="/blog#content">
-    <div class="related-post" style="text-align: right">
+    <a class="related-post" href="/2021/08/06/care-instructions/#content">
+    <div>
+        <h1 class="related-title">Care Instructions</h1>
+        <img class="related-image" src="/images/posts/2021-08-06-care-instructions/23A0174-button.jpg" />
+        <div class="related-content">...I’m a big believer in <b>"if it’s handmade; hand wash it"</b> with the
+        exception of utilitarian items such as towels...</div>
+    </div>
+    </a>
+    <a class="related-post" href="/blog#content">
+    <div style="text-align: right">
         <h1 class="related-title">All Posts ➼</h1>
     </div>
     </a>

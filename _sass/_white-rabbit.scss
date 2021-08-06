@@ -5,6 +5,7 @@
 
 .home-posts {
   display: flex;
+  flex-wrap: wrap;
   @include mobile {
     flex-direction: column;
   }
@@ -17,7 +18,7 @@
   display: inline-block;
   border: 1px solid $lightGray;
   border-radius: 7px;
-  width: 30vw;
+  width: 21vw;
   padding: 1vw;
   margin-right: 1vw;
   margin-bottom: 1vh;
