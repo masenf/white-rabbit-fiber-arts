@@ -43,3 +43,11 @@
 .related-content {
 
 }
+
+.width33-50 {
+  width: 33vw;
+  @include mobile {
+    width: 50vw;
+  }
+
+}

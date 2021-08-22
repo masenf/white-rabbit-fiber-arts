@@ -15,12 +15,12 @@ Thank you for supporting my shop,
 -Samantha
 
 <div class="home-posts">
-    <a class="related-post" href="/2021/07/23/why-buy-handmade/#content">
+    <a class="related-post" href="/2021/08/22/fall-at-the-fiber-farm/#content">
     <div>
-        <h1 class="related-title">Why Buy Handmade?</h1>
-        <img class="related-image" src="/images/posts/2021-07-23-why-buy-handmade/loom-and-boat-shuttle-button.jpg" />
-        <div class="related-content">...One of my favorite things about hand weaving
-        is that it is my own life force energy that powers the loom and creates the finished textile...</div>
+        <h1 class="related-title">Fall at the Fiber Farm</h1>
+        <img class="related-image" src="/images/posts/2021-08-22-fall-at-the-fiber-farm/23A0473-button.jpg" />
+        <div class="related-content">It's Virgo season, the unofficial start of autumn, and I am relieved.
+        It's been a busy summer...</div>
     </div>
     </a>
     <a class="related-post" href="/2021/08/06/care-instructions/#content">
